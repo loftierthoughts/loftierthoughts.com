@@ -1,0 +1,32 @@
+	/*.app-tile {display:table-cell;width: 140px; height:140px;  margin-left: auto; margin-right: auto;} /* for all browsers
+		 optional: .app-tile[id] {position: static;} */
+		
+		.app-tile {
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:0px;
+	font-size:24px;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	font-family:comfortaa;
+	height:140px;
+	line-height:140px;
+	width:140px;
+	margin:5px 5px 5px 5px;
+		}
+		
+		.app-tile:active {
+	position:relative;
+	top:1px;
+		}
